@@ -1,7 +1,7 @@
 {
-  "name": "docxtemplater-link-module",
-  "version": "0.2.4",
-  "description": "Hyperlink module for docxtemplater",
+  "name": "gasperoid-docxtemplater-link-module",
+  "version": "0.0.1",
+  "description": "This is a FORK of Hyperlink module for docxtemplater",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
