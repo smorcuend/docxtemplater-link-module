@@ -1,5 +1,6 @@
 
 # docxtemplater-link-module
+This module is updated to support docxtemplater version 3+
 Hyperlink module for [docxtemplater](https://github.com/open-xml-templating/docxtemplater)
 
 [![Download count](https://img.shields.io/npm/dt/docxtemplater-link-module.svg?style=flat)](https://www.npmjs.org/package/docxtemplater-link-module)
