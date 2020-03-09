@@ -32,7 +32,7 @@ LinkModule = (function () {
     var templaterState;
     if (data === 'loopType') {
       templaterState = this.manager.getInstance('templaterState');
-      if (templaterState.textInsideTag[0] === '^') {
+      if (templaterState.textInsideTag[0] === '&') {
         return this.name;
       }
     }
