@@ -8,7 +8,7 @@ Hyperlink module for [docxtemplater](https://github.com/open-xml-templating/docx
 [![Build Status](https://travis-ci.org/sujith3g/docxtemplater-link-module.svg?branch=master)](https://travis-ci.org/sujith3g/docxtemplater-link-module)
 
 ## Installation:
-You will need docxtemplater v2.1.1: `npm install docxtemplater`
+You will need docxtemplater v3+: `npm install docxtemplater`
 
 Install this module: `npm install docxtemplater-link-module`
 
